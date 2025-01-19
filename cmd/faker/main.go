@@ -1,1 +1,5 @@
-package faker
+package main
+
+func main() {
+
+}
